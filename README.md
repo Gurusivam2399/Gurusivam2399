@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusivam2399&label=Profile%20views&color=0e75b6&style=flat" alt="gurusivam2399" /> </p>
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Flutter, Appium**
 
 - 📫 How to reach me **gurusivamkl2399@gmailcom**
 
